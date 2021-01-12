@@ -11,8 +11,8 @@ This is A/B test is to examine the potential effect of applying a new page desig
 
 ### Hypothesis Test:
 
-$$H_0: p_{new} - p_{old} \leq 0  $$
-$$H_1: p_{new} - p_{old} > 0 $$
+      $$H_0: p_{new} - p_{old} \leq 0  $$
+      $$H_1: p_{new} - p_{old} > 0 $$
 
 where p_new represents the proportion of converted users under the new_page design
 where p_old represents the proportion of converted users under the old_page design
